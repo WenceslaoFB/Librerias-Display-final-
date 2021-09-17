@@ -4,8 +4,8 @@
  * Created: 6/9/2021 11:33:44
  *  Author: Admin
  */ 
-#include <TWI_display.h>
-#include <TWI_display/font.h>
+#include "font1.h"
+#include "TWI_display.h"
 
 static uint8_t twi_Status=0;
 static uint8_t comando=0;
